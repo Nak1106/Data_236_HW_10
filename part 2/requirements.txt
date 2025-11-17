@@ -1,0 +1,5 @@
+kafka-python>=2.0.2,<3
+langchain>=0.2
+langchain-openai>=0.1
+langchain-ollama>=0.1
+deepeval>=1.0.0
